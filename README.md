@@ -1,5 +1,7 @@
 <td><h1>DOCX to PDF converter</h1></td>
 
+This program adds an option to the right-click context menu of any .docx files to convert to PDF. 
+
 ### Prerequisites
 * winregistry
    ```sh
