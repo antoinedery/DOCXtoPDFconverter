@@ -1,6 +1,9 @@
 <td><h1>DOCX to PDF converter</h1></td>
 
 This program adds an option to the right-click context menu of any .docx files to convert to PDF. 
+<p align="center">
+   <img src="assets/screenCapture.PNG")
+</p>
 
 ### Prerequisites
 * winregistry
