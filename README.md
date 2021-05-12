@@ -1,20 +1,15 @@
 <td><h1>DOCX to PDF converter</h1></td>
-========================================
-
 ### Prerequisites
------------------
 * winregistry
    ```sh
    pip install winregistry
    ```
-
 * docx2pdf
    ```sh
    pip install docx2pdf
    ```
 
-### Instruction
----------------        
+### Instruction      
 1. Clone the repo
    ```sh
    git clone https://github.com/antoinedery/https://github.com/antoinedery/DOCXtoPDFconverter.git
