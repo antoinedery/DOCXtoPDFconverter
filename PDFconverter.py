@@ -12,4 +12,4 @@ import time
 from docx2pdf import convert
 
 print("Converting to PDF... This window will close once the conversion is completed")
-convert(sys.argv[1])    # sys.argv[1] contains path name and file from which the python script was called
+convert(sys.argv[1])    # sys.argv[1] contains the file path name from which the python script was called
