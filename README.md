@@ -1,6 +1,9 @@
 <td><h1>DOCX to PDF converter</h1></td>
 
 This program adds an option to the right-click context menu of any .docx files to convert to PDF on Windows. 
+<p align="center">
+   <img src="assets/screenCapture.PNG")
+</p>
 
 ### Prerequisites
 * [Python 3](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
