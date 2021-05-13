@@ -22,7 +22,7 @@ This program adds an option to the right-click context menu of any .docx files t
    git clone https://github.com/antoinedery/DOCXtoPDFconverter.git
    ```
 2. Open terminal in the DOCXtoPDFconverter folder
-3. Run CreateRegistryKey.py (this step is required once)
+3. Run CreateRegistryKey.py (this step is only required once)
    ```sh
    python CreateRegistryKey.py
    ```
